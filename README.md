@@ -5,7 +5,7 @@
 <h2>Cyber Security Projects:</h2>
 
 - <b>SIEMs Deployment (Integrations, Configurations, Log Analysis, Attack Simulation & Active Response....)</b>
-  - [Wazuh SIEM](https://github.com/EeBbEeNn/Wazuh-SIEM-LAB) ✔
+  - [Wazuh SIEM](https://github.com/dmike360/WazuhLabSetup) ✔
   - [IBM Qradar SIEM](https://github.com/EeBbEeNn/IBM-Qradar-CE-/tree/main) ✔
   - [Rapid7 InsightIDR SIEM] (in progress....)
   - [Microsoft Sentinel] (in progress....)
