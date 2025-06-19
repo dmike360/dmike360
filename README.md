@@ -1,7 +1,5 @@
 <h1>Hi, I'm Daniel Omini Michael <br/> <a href="www.linkedin.com/in/daniel-michael-912926242">Cyber Security Engineer, SOC Analyst</a>
 
-<h2>👨‍💻 [My Current Home Lab] (https://i.imgur.com/qhf77X1.png)</h2>
-
 <h2>Cyber Security Projects:</h2>
 
 - <b>SIEMs Deployment (Integrations, Configurations, Log Analysis, Attack Simulation & Active Response....)</b>
