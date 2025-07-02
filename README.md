@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel Omini Michael <br/> <a href="www.linkedin.com/in/daniel-michael-912926242">Cyber Security Engineer, SOC Analyst</a>
+<h1>Daniel Omini Michael <br/> <a href="www.linkedin.com/in/daniel-michael-912926242">Cyber Security Engineer|SOC Analyst</a>
 
 <h2>Cyber Security Projects:</h2>
 
@@ -10,7 +10,7 @@
  
 
 - <b>Active Directory (Setup,Configurations, Installation of AD Domain Services, RAS/NAT, DHCP....)</b>
-  - [Windows Server 2025 Active Directory] (in progress....)
+  - [Windows Server 2022 Active Directory] (in progress....)
  
      
 - <b>Python for cybersecurity threat detection & Automation (Functions,Modules & Packages,Object Oriented Programming(OOP...))</b>
