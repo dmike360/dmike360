@@ -11,13 +11,13 @@
 
 - <b>Active Directory (Setup,Configurations, Installation of AD Domain Services, RAS/NAT, DHCP....)</b>
   - [Windows Server 2025 Active Directory] (in progress....)
-  - [YouTube Video Used For AD Lab](https://youtu.be/MHsI8hJmggI?si=AfHeTYIlmSp6Q0VO)
  
+     
 - <b>Python for cybersecurity threat detection & Automation (Functions,Modules & Packages,Object Oriented Programming(OOP...))</b>
-  - [Python Essentials 1 Course](https://www.netacad.com/courses/python-essentials-1?courseLang=en-US) (STARTED✔)
+  - [Python Essentials 1 Course](https://www.netacad.com/courses/python-essentials-1?courseLang=en-US)
 
 - <b>[ CFSS Cyber Security & Ethical Hacking Projects]( Stegnography,Nmap,Metasploit,Password Cracking,Incident Response Plan... )</b>
-   - [CFSS Cyber Security & Ethical Hacking Projects](https://docs.google.com/document/d/1xZXMpvTM2Njc-i0n90gyS0P0-eO0On5w9BvkFAiA5xI/edit?usp=drive_link) ✔
+   - [CFSS Cyber Security & Ethical Hacking Projects](https://file:///C:/Users/barlas/Desktop/internship%20project.pdf) 
  
 <h2>Certifications and Licsense:</h2>
 
