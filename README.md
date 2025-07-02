@@ -19,6 +19,13 @@
 - <b>[ CFSS Cyber Security & Ethical Hacking Projects]( Stegnography,Nmap,Metasploit,Password Cracking,Incident Response Plan... )</b>
    - [CFSS Cyber Security & Ethical Hacking Projects](https://drive.google.com/file/d/1ruC6Za3evOu3PHI3nU1Zp_QmnLYG92_C/view?usp=sharing) 
  
+
+
+<h2> Artificial Intelligence Projects:</h2>
+
+  - [IBMChatBotSetup](https://github.com/dmike360/IBMChatBotSetup/blob/main/README.md)
+
+
 <h2>Certifications and Licsense:</h2>
 
 - Blue Team Junior Analyst (BTJA) – Mar 2024 
@@ -31,21 +38,13 @@
 - Cybersecurity Essentials (Cisco) – Jun 2022 
 - Introduction to Cybersecurity (Cisco) – Dec 2021 
 
-<h2> Artificial Intelligence Projects:</h2>
-
-  -[Build A Chatbot using IBM WatsonX Assistant] Digital Badge: (https://www.credly.com/badges/19f7d812-29e5-4647-a2cb-08fd4140cb72/public_url)
-
-  - [Build A Chatbot using IBM WatsonX Assistant](https://github.com/EeBbEeNn/IBM-Build-Your-Own-ChatBot-Course-Lab) ✔
-
     
 <br></br>
 
-<h2> 🤳 Connect with me:</h2>
-
+<h2>Find me on:</h2>
 
 [<img align="left" alt="Ebenezer_A_U | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ebenezer-Aibor| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-[twitter]: https://x.com/Ebenezer_A_U
-[linkedin]:https://www.linkedin.com/in/ebenezer-aibor-454257225/
+[twitter]: https://x.com/danielm84547655?s=21
+[linkedin]:http://linkedin.com/in/daniel-michael-912926242
