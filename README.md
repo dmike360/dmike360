@@ -17,7 +17,7 @@
   - [Python Essentials 1 Course](https://www.netacad.com/courses/python-essentials-1?courseLang=en-US)
 
 - <b>[ CFSS Cyber Security & Ethical Hacking Projects]( Stegnography,Nmap,Metasploit,Password Cracking,Incident Response Plan... )</b>
-   - [CFSS Cyber Security & Ethical Hacking Projects](https://file:///C:/Users/barlas/Desktop/internship%20project.pdf) 
+   - [CFSS Cyber Security & Ethical Hacking Projects](https://drive.google.com/file/d/1ruC6Za3evOu3PHI3nU1Zp_QmnLYG92_C/view?usp=sharing) 
  
 <h2>Certifications and Licsense:</h2>
 
