@@ -4,7 +4,7 @@
 
 - <b>SIEMs Deployment (Integrations, Configurations, Log Analysis, Attack Simulation & Active Response....)</b>
   - [Wazuh SIEM](https://github.com/dmike360/WazuhLabSetup) 
-  - [IBM Qradar SIEM](https://github.com/EeBbEeNn/IBM-Qradar-CE-/tree/main) 
+  - [QRadarLabSetup](https://github.com/dmike360/QRadarLabSetup/blob/main/README.md) 
   - [Rapid7 InsightIDR SIEM] (in progress....)
   - [Microsoft Sentinel] (in progress....)
  
