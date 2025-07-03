@@ -23,7 +23,7 @@
 
 <h2> Artificial Intelligence Projects:</h2>
 
-  - [IBMChatBotSetup](https://github.com/dmike360/IBMChatBotSetup/blob/main/README.md)
+  - [Building a IBM Watson Assintant Chatbot](https://github.com/dmike360/IBMChatBotSetup/blob/main/README.md)
 
 
 <h2>Certifications and Licsense:</h2>
